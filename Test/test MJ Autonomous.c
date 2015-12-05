@@ -8,7 +8,7 @@
 #pragma config(Motor,  port9,           launcherRightMotor, tmotorVex393HighSpeed_MC29, openLoop)
 #pragma config(Motor,  port10,          leftBackMotor, tmotorVex393_HBridge, openLoop, reversed)
 
-//comment
+//comment//edward's comment can you see thsi?
 task main()
 {
 	while(true)
